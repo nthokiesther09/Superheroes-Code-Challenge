@@ -27,7 +27,7 @@ To use this API, you must have installed:
 ### Follow the steps below to install the Api:
 - Clone the repository
 
-   git clone : "https://github.com/nthokiesther09/Pizzas-Code-Challenge"
+   git clone : "https://github.com/nthokiesther09/Superheroes-Code-Challenge"
 
 - bundle install to install dependencies
 - Set up the database:
