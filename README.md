@@ -16,7 +16,7 @@ This Rails API utilizes many-to-many relationships approach. A Hero has many pow
 
 
 ## Deployment
-To access the API click on the deployed link: "https://phase-4-superhero.onrender.com"
+To access the API click on the deployed link: "https://superhero-gorj.onrender.com"
 
 ## Installation
 To use this API, you must have installed:
